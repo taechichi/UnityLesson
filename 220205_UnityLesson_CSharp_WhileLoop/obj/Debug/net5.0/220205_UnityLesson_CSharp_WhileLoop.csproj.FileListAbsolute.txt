@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.exe
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.deps.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.runtimeconfig.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.runtimeconfig.dev.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\ref\220205_UnityLesson_CSharp_WhileLoop.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\bin\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.pdb
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.AssemblyInfo.cs
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\ref\220205_UnityLesson_CSharp_WhileLoop.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.pdb
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_WhileLoop\obj\Debug\net5.0\220205_UnityLesson_CSharp_WhileLoop.genruntimeconfig.cache

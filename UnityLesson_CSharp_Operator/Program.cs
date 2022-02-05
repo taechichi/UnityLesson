@@ -17,32 +17,41 @@ namespace UnityLesson_CSharp_Operator
             Console.WriteLine($"a: {a}, b: {b}");
             // 더하기
             c = OperatorMethods.Sum(a, b);
+            Console.Write($"a + b = ");
             Console.WriteLine(c);
 
             // 빼기
             c = OperatorMethods.Min(a, b);
+            Console.Write($"a - b = ");
             Console.WriteLine(c);
 
             // 나누기 -> 정수끼리 했을때는 몫만 나옴;
             c = OperatorMethods.Div(a, b);
+            Console.Write($"a / b = ");
             Console.WriteLine(c);
 
             // 곱하기
             c = OperatorMethods.Mul(a, b);
+            Console.Write($"a * b = ");
             Console.WriteLine(c);
 
             // 나머지
-            c = OperatorMethods.Rim(a, b);
+            c = OperatorMethods.Mod(a, b);
+            Console.Write($"a % b = ");
             Console.WriteLine(c);   // 4
 
 
             // 증감연산
             // 증가 연산자, 감소 연산자
             // ================================================
-            c++; // c = c + 1;
+            // 증가 연산자
+            c = OperatorMethods.Increase(c); // c = c + 1;
+            Console.Write($"c ++ : ");
             Console.WriteLine(c);   // 5
 
-            c--; // c = c - 1;
+            // 감소 연산자
+            c = OperatorMethods.Decrease(c); // c = c - 1;
+            Console.Write($"c -- : ");
             Console.WriteLine(c);   // 4
 
 
@@ -55,50 +64,58 @@ namespace UnityLesson_CSharp_Operator
             
             // 같음 비교
             result = a == b;
+            Console.Write($"a == b :");
             Console.WriteLine(result);
 
             // 다름 비교
             result = a != b;
+            Console.Write($"a != b :");
             Console.WriteLine(result);
 
             // 크다
             result = a > b;
+            Console.Write($"a > b :");
             Console.WriteLine(result);
 
             // 작다
             result = a < b;
+            Console.Write($"a < b :");
             Console.WriteLine(result);
 
             // 작거나 같다
             result = a <= b;
+            Console.Write($"a <= b :");
             Console.WriteLine(result);
 
             // 논리 연산 (논리 자료형 연산 - bool형 끼리의 연산)
             // 양측의 피연산자들을 비교해서 연산 수행
             // or, and, xor, not
             // ================================================
-
             Console.WriteLine($"=====================================");
             bool A = true;
             bool B = false;
+
+            Console.WriteLine($"bool A: {A}, bool B: {B}");
+
             // or : a 와 b 둘 중 하나라도 true 이면 true 반환, 나머지의 경우 false 반환
             result = A | B;
+            Console.Write($"A | B : ");
             Console.WriteLine(result);
 
             // and : a 와 b 둘다 true 이면 true 반환, 나머지의 경우 false 반환
             result = A & B;
+            Console.Write($"A & B : ");
             Console.WriteLine(result);
 
             // xor : a 와 b 둘 중 하나만 true 일 때 true 반환, 나머지의 경우 false 반환
             result = A ^ B;
+            Console.Write($"A ^ B : ");
             Console.WriteLine(result);
 
             // not : a 의 반대 부호 반환 (true 이면 false, fasle 이면 true 반환)
             result = !A;
+            Console.Write($"!A : ");
             Console.WriteLine(result);
-
-
-
 
             // 조건부 논리연산
             // 왼쪽 피연산자 조건에 따라서 오른쪽 피연산자와 비교할지 말지 평가 후에 연산한다. ㄷㄷ
@@ -106,10 +123,12 @@ namespace UnityLesson_CSharp_Operator
 
             // conditional or : 만약 A가 true이면, B의 값에 관계없이 결과값이 true 이므로 연산을 수행하지 않고 A를 반환함.
             result = A || B;
+            Console.Write($"A || B : ");
             Console.WriteLine(result);
 
             // conditional and : 만약 A가 false이면, B의 값에 관계없이 결과값이 false 이므로 연산을 수행하지 않고 A를 반환함.
             result = A && B;
+            Console.Write($"A && B : ");
             Console.WriteLine(result);
 
 
@@ -117,29 +136,39 @@ namespace UnityLesson_CSharp_Operator
             // 비트 연산을 하는 이유_ 데이터를 효율적으로 관리하기 위함이다.
             // or, and, xor, not, shift-left, shift-right
 
+            Console.WriteLine($"=====================================");
+            Console.WriteLine($"Bit Calculation.");
+            Console.WriteLine($"howManyBitsYouWantToShift : 1");
+
             int howManyBitsYouWantToShift = 1;
             // or
             c = a | b;
+            Console.Write($"a | b : ");
             Console.WriteLine(c);
 
             // and
             c = a & b;
+            Console.Write($"a & b : ");
             Console.WriteLine(c);
 
             // xor
             c = a ^ b;
+            Console.Write($"a ^ b : ");
             Console.WriteLine(c);
 
             // not
             c = ~a;
+            Console.Write($"~a : ");
             Console.WriteLine(c);
 
             // shift-left
             c = a << howManyBitsYouWantToShift;
+            Console.Write($"a << howManyBitsYouWantToShift : ");
             Console.WriteLine(c);
 
             // shift-right
             c = a >> howManyBitsYouWantToShift;
+            Console.Write($"a >> howManyBitsYouWantToShift : ");
             Console.WriteLine(c);
         }
     }

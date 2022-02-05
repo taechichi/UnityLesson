@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
-      "projectName": "UnityLesson_CSharp_Operator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
+      "projectName": "220129_UnityLesson_CSharp_Operator",
+      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_Operator\\obj\\",
       "projectStyle": "PackageReference",

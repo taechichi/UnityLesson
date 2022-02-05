@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_InstantiationOfObject\\UnityLesson_CSharp_InstantiationOfObject.csproj",
-      "projectName": "UnityLesson_CSharp_InstantiationOfObject",
-      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_InstantiationOfObject\\UnityLesson_CSharp_InstantiationOfObject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_InstantiationOfObject\\220129_UnityLesson_CSharp_InstantiationOfObject.csproj",
+      "projectName": "220129_UnityLesson_CSharp_InstantiationOfObject",
+      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_InstantiationOfObject\\220129_UnityLesson_CSharp_InstantiationOfObject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_InstantiationOfObject\\obj\\",
       "projectStyle": "PackageReference",

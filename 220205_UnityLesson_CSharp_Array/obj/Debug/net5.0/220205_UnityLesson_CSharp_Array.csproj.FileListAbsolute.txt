@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.exe
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.deps.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.runtimeconfig.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.runtimeconfig.dev.json
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\ref\220205_UnityLesson_CSharp_Array.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\bin\Debug\net5.0\220205_UnityLesson_CSharp_Array.pdb
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.AssemblyInfo.cs
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\ref\220205_UnityLesson_CSharp_Array.dll
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.pdb
+C:\Users\User\source\repos\taechichi\220205_UnityLesson_CSharp_Array\obj\Debug\net5.0\220205_UnityLesson_CSharp_Array.genruntimeconfig.cache

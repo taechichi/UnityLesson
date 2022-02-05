@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
-      "projectName": "UnityLesson_CSharp_ClassObjectInstance",
-      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_ClassObjectInstance\\220129_UnityLesson_CSharp_ClassObjectInstance.csproj",
+      "projectName": "220129_UnityLesson_CSharp_ClassObjectInstance",
+      "projectPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_ClassObjectInstance\\220129_UnityLesson_CSharp_ClassObjectInstance.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\taechichi\\UnityLesson_CSharp_ClassObjectInstance\\obj\\",
       "projectStyle": "PackageReference",

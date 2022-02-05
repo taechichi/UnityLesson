@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassIncludingVariablesFunctions", "UnityLesson_CSharp_ClassIncludingVariablesFunctions\UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj", "{9C1F3614-913A-47AE-AF33-34A7A0994E5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220129_UnityLesson_CSharp_ClassIncludingVariablesFunctions", "UnityLesson_CSharp_ClassIncludingVariablesFunctions\220129_UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj", "{9C1F3614-913A-47AE-AF33-34A7A0994E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassObjectInstance", "UnityLesson_CSharp_ClassObjectInstance\UnityLesson_CSharp_ClassObjectInstance.csproj", "{AEB13A98-A340-4786-B746-9D8C94011F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220129_UnityLesson_CSharp_ClassObjectInstance", "UnityLesson_CSharp_ClassObjectInstance\220129_UnityLesson_CSharp_ClassObjectInstance.csproj", "{AEB13A98-A340-4786-B746-9D8C94011F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationOfObject", "UnityLesson_CSharp_InstantiationOfObject\UnityLesson_CSharp_InstantiationOfObject.csproj", "{CC37600C-0370-48AD-BED1-CBAF3CCC51DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220129_UnityLesson_CSharp_InstantiationOfObject", "UnityLesson_CSharp_InstantiationOfObject\220129_UnityLesson_CSharp_InstantiationOfObject.csproj", "{CC37600C-0370-48AD-BED1-CBAF3CCC51DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_StaticExample", "UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{9D4AF03C-6486-4A02-96C2-DE53AAB0AEDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220129_UnityLesson_CSharp_StaticExample", "UnityLesson_CSharp_StaticExample\220129_UnityLesson_CSharp_StaticExample.csproj", "{9D4AF03C-6486-4A02-96C2-DE53AAB0AEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationExmaple1", "UnityLesson_CSharp_InstantiationExmaple1\UnityLesson_CSharp_InstantiationExmaple1.csproj", "{DE456E51-5E97-4FA7-8760-CC34E05ACD89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220129_UnityLesson_CSharp_InstantiationExmaple1", "UnityLesson_CSharp_InstantiationExmaple1\220129_UnityLesson_CSharp_InstantiationExmaple1.csproj", "{DE456E51-5E97-4FA7-8760-CC34E05ACD89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{A4AAC307-F4C7-4652-90C7-3243F8017315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220129_UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\220129_UnityLesson_CSharp_Operator.csproj", "{A4AAC307-F4C7-4652-90C7-3243F8017315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220205_UnityLesson_CSharp_Array", "220205_UnityLesson_CSharp_Array\220205_UnityLesson_CSharp_Array.csproj", "{805AC826-9377-48A9-A55B-6456A24EED43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220205_UnityLesson_CSharp_WhileLoop", "220205_UnityLesson_CSharp_WhileLoop\220205_UnityLesson_CSharp_WhileLoop.csproj", "{0A7E37E9-051A-44D9-BB33-228F93376466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220205_UnityLesson_CSharp_ForLoop", "220205_UnityLesson_CSharp_ForLoop\220205_UnityLesson_CSharp_ForLoop.csproj", "{1782806D-6661-466D-8A8E-D03CD69D6840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220205_UnityLesson_CSharp_ForLoopExample", "220205_UnityLesson_CSharp_ForLoopExample\220205_UnityLesson_CSharp_ForLoopExample.csproj", "{75D35E51-B4A8-4621-9D69-A40A702C1D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220205_UnityLesson_CSharp_Collection", "220205_UnityLesson_CSharp_Collection\220205_UnityLesson_CSharp_Collection.csproj", "{83DF5571-C4C3-432A-A23F-4AED0BF9DEDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{A4AAC307-F4C7-4652-90C7-3243F8017315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4AAC307-F4C7-4652-90C7-3243F8017315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4AAC307-F4C7-4652-90C7-3243F8017315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805AC826-9377-48A9-A55B-6456A24EED43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805AC826-9377-48A9-A55B-6456A24EED43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805AC826-9377-48A9-A55B-6456A24EED43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805AC826-9377-48A9-A55B-6456A24EED43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7E37E9-051A-44D9-BB33-228F93376466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7E37E9-051A-44D9-BB33-228F93376466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7E37E9-051A-44D9-BB33-228F93376466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7E37E9-051A-44D9-BB33-228F93376466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1782806D-6661-466D-8A8E-D03CD69D6840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1782806D-6661-466D-8A8E-D03CD69D6840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1782806D-6661-466D-8A8E-D03CD69D6840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1782806D-6661-466D-8A8E-D03CD69D6840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D35E51-B4A8-4621-9D69-A40A702C1D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D35E51-B4A8-4621-9D69-A40A702C1D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D35E51-B4A8-4621-9D69-A40A702C1D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D35E51-B4A8-4621-9D69-A40A702C1D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DF5571-C4C3-432A-A23F-4AED0BF9DEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DF5571-C4C3-432A-A23F-4AED0BF9DEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DF5571-C4C3-432A-A23F-4AED0BF9DEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DF5571-C4C3-432A-A23F-4AED0BF9DEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
