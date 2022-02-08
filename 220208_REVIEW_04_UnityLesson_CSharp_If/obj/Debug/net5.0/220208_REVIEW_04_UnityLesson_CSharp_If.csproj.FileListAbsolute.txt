@@ -1,0 +1,15 @@
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.exe
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.deps.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.runtimeconfig.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.runtimeconfig.dev.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\ref\220208_REVIEW_04_UnityLesson_CSharp_If.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\bin\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.pdb
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.AssemblyInfoInputs.cache
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.AssemblyInfo.cs
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.csproj.CoreCompileInputs.cache
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\ref\220208_REVIEW_04_UnityLesson_CSharp_If.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.pdb
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_04_UnityLesson_CSharp_If\obj\Debug\net5.0\220208_REVIEW_04_UnityLesson_CSharp_If.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.exe
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.deps.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.runtimeconfig.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.runtimeconfig.dev.json
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\ref\220208_REVIEW_UnityLesson_CSharp_Method.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\bin\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.pdb
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.AssemblyInfoInputs.cache
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.AssemblyInfo.cs
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.csproj.CoreCompileInputs.cache
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\ref\220208_REVIEW_UnityLesson_CSharp_Method.dll
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.pdb
+C:\Users\Taechichi\Documents\GitHub\UnityLesson\220208_REVIEW_UnityLesson_CSharp_Method\obj\Debug\net5.0\220208_REVIEW_UnityLesson_CSharp_Method.genruntimeconfig.cache
