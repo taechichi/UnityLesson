@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "220209_REVIEW_11_UnityLesson_CSharp_Operator/1.0.0": {
+        "runtime": {
+          "220209_REVIEW_11_UnityLesson_CSharp_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "220209_REVIEW_11_UnityLesson_CSharp_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions/1.0.0": {
+        "runtime": {
+          "220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
