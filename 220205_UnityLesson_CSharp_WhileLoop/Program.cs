@@ -29,7 +29,9 @@ namespace _220205_UnityLesson_CSharp_WhileLoop
             int ar_PersonName_len = arr_PersonName.Length;
             // Console.WriteLine(arr_PersonName[0]); ... 줄줄 쓰는것이 아니라
             int c_i = 0;
-            while (c_i < ar_PersonName_len) // 조건문안에, 내지 코딩문자에 직접 임의의 숫자를 쓰는것은 좋지 못하다! -> 매직넘버 이슈 이런식으로 해야 좋다.
+            // 조건문안에, 내지 코딩문자에 직접 임의의 숫자를 쓰는것은 좋지 못하다!
+            // -> 매직넘버 이슈 이런식으로 해야 좋다.
+            while (c_i < ar_PersonName_len)
             {               
                 Console.WriteLine(arr_PersonName[c_i]);
                 c_i++;

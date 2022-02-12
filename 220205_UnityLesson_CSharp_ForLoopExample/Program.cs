@@ -46,6 +46,8 @@ namespace _220205_UnityLesson_CSharp_ForLoopExample
 
             int randomInt = random.Next(0, 2); // minValue ~ maxValue-1, (0, 2) 범위중 난수를 생성함. // 드랍확률 이런식으로 만듬
             bool randomBool = Convert.ToBoolean(randomInt);
+            // bool randomBool = random.Next(0, 2) < 1; (더 간단한 방법)
+            // bool randomBool = random.Next(0f, 1f) < 0.5f; (실수형 계산) <- 이 방법을 잘 씀(내부적인 계산을 보면 제일 빠르기 때문)
             return randomBool;
         }
     }

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "805ac826-9377-48a9-a55b-6456a24eed43": {
+      "ProjectGuid": "805ac826-9377-48a9-a55b-6456a24eed43",
+      "DisplayName": "220205_UnityLesson_CSharp_Array",
+      "ColorIndex": 0
+    },
+    "0a7e37e9-051a-44d9-bb33-228f93376466": {
+      "ProjectGuid": "0a7e37e9-051a-44d9-bb33-228f93376466",
+      "DisplayName": "220205_UnityLesson_CSharp_WhileLoop",
+      "ColorIndex": 1
+    },
+    "75d35e51-b4a8-4621-9d69-a40a702c1d10": {
+      "ProjectGuid": "75d35e51-b4a8-4621-9d69-a40a702c1d10",
+      "DisplayName": "220205_UnityLesson_CSharp_ForLoopExample",
+      "ColorIndex": 2
+    },
+    "83df5571-c4c3-432a-a23f-4aed0bf9dedd": {
+      "ProjectGuid": "83df5571-c4c3-432a-a23f-4aed0bf9dedd",
+      "DisplayName": "220205_UnityLesson_CSharp_Collection",
+      "ColorIndex": 3
+    },
+    "2f766821-7346-43f0-ae0a-9576d46ad10c": {
+      "ProjectGuid": "2f766821-7346-43f0-ae0a-9576d46ad10c",
+      "DisplayName": "220212_01_UnityLesson_CSharp_EnumAndSwitchCase",
+      "ColorIndex": 4
+    },
+    "6e60463a-0e54-4692-8ab0-9ce833776da7": {
+      "ProjectGuid": "6e60463a-0e54-4692-8ab0-9ce833776da7",
+      "DisplayName": "220212_02_UnityLesson_CSharp_Structure",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
