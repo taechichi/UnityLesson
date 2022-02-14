@@ -333,4 +333,21 @@ namespace _220209_REVIEW_11_UnityLesson_CSharp_Operator
             Console.WriteLine($"a >> howManyBitsYouWantToShift : {c}");
         }
     }
+
+    // FSM (Finite State Machine) 유한상태머신
+    // 클래스의 상태에 따라서 다른 동작을 하기 위해 사용
+    // ex_플레이어가 IDLE 일때 귀환 누르면 귀환 시작
+    // 피격상태 / 공격상태 일때는 귀환 누르면 안되게하는 조건을
+    // 아래 플레이어 상태에 따라서 나눈다.
+    
+    /*[Flags]
+    public enum e_FSM
+    {
+        IDLE = 0;
+        피격당한상태 = 1 << 0;
+        공격중인상태 = 1 << 1;
+        STATE_3 = 1 << 2;
+        STATE_4 = 1 << 3;
+    }
+    */
 }

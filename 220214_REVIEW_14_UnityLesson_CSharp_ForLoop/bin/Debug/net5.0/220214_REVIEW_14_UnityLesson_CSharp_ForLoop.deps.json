@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "220214_REVIEW_14_UnityLesson_CSharp_ForLoop/1.0.0": {
+        "runtime": {
+          "220214_REVIEW_14_UnityLesson_CSharp_ForLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "220214_REVIEW_14_UnityLesson_CSharp_ForLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Taechichi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\220208_REVIEW_02_UnityLesson_CSharp_Variables.csproj",
+      "projectUniqueName": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\220208_REVIEW_02_UnityLesson_CSharp_Variables.csproj",
       "projectName": "220208_REVIEW_02_UnityLesson_CSharp_Variables",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\220208_REVIEW_02_UnityLesson_CSharp_Variables.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\obj\\",
+      "projectPath": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\220208_REVIEW_02_UnityLesson_CSharp_Variables.csproj",
+      "packagesPath": "C:\\Users\\Taechichi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220208_REVIEW_UnityLesson_CSharp_Variables\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Taechichi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
