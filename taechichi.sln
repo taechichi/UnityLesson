@@ -51,13 +51,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220212_01_UnityLesson_CShar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220212_02_UnityLesson_CSharp_Structure", "220212_02_UnityLesson_CSharp_Structure\220212_02_UnityLesson_CSharp_Structure.csproj", "{6E60463A-0E54-4692-8AB0-9CE833776DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220214_REVIEW_12_UnityLesson_CSharp_Array", "220214_REVIEW_12_UnityLesson_CSharp_Array\220214_REVIEW_12_UnityLesson_CSharp_Array.csproj", "{80C213C8-DE8A-406B-9950-4E1A4FC3D9A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220214_REVIEW_12_UnityLesson_CSharp_Array", "220214_REVIEW_12_UnityLesson_CSharp_Array\220214_REVIEW_12_UnityLesson_CSharp_Array.csproj", "{80C213C8-DE8A-406B-9950-4E1A4FC3D9A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220214_REVIEW_13_UnityLesson_CSharp_WhileLoop", "220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj", "{9DE5ACE5-3429-45A6-B470-5FF3CE410F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220214_REVIEW_13_UnityLesson_CSharp_WhileLoop", "220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj", "{9DE5ACE5-3429-45A6-B470-5FF3CE410F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220214_REVIEW_14_UnityLesson_CSharp_ForLoop", "220214_REVIEW_14_UnityLesson_CSharp_ForLoop\220214_REVIEW_14_UnityLesson_CSharp_ForLoop.csproj", "{D5AA8EF7-B32D-44A6-A25C-9EB337316D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220214_REVIEW_14_UnityLesson_CSharp_ForLoop", "220214_REVIEW_14_UnityLesson_CSharp_ForLoop\220214_REVIEW_14_UnityLesson_CSharp_ForLoop.csproj", "{D5AA8EF7-B32D-44A6-A25C-9EB337316D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample", "220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample\220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample.csproj", "{8FE38821-EB7E-4388-909E-FBBFB33BB34A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample", "220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample\220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample.csproj", "{8FE38821-EB7E-4388-909E-FBBFB33BB34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "220216_REVIEW_16_UnityLesson_CSharp_Collection", "220216_REVIEW_15_UnityLesson_CSharp_Collection\220216_REVIEW_16_UnityLesson_CSharp_Collection.csproj", "{950A3EFE-480B-4999-A463-56FAA677335D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{8FE38821-EB7E-4388-909E-FBBFB33BB34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FE38821-EB7E-4388-909E-FBBFB33BB34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FE38821-EB7E-4388-909E-FBBFB33BB34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950A3EFE-480B-4999-A463-56FAA677335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950A3EFE-480B-4999-A463-56FAA677335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950A3EFE-480B-4999-A463-56FAA677335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950A3EFE-480B-4999-A463-56FAA677335D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

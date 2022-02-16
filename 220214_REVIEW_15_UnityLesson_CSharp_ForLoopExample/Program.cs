@@ -14,7 +14,36 @@ namespace _220214_REVIEW_15_UnityLesson_CSharp_ForLoopExample
         {
             Orc[] arr_Orc = new Orc[10];
 
+            int count = 0;
+            int arr_Orc_length = arr_Orc.Length;
+            for (count = 0; count < arr_Orc_length; count++)
+            {
+                arr_Orc[count] = new Orc();
+                arr_Orc[count].name = $"오크{count}";
+            }
 
+            arr_Orc[0].isResting = true;
+            arr_Orc[1].isResting = false;
+            arr_Orc[2].isResting = true;
+            arr_Orc[3].isResting = true;
+            arr_Orc[4].isResting = false;
+            arr_Orc[5].isResting = true;
+            arr_Orc[6].isResting = true;
+            arr_Orc[7].isResting = true;
+            arr_Orc[8].isResting = false;
+            arr_Orc[9].isResting = true;
+
+            for (count = 0; count < arr_Orc_length; count++)
+            {
+                if(arr_Orc[count].isResting)
+                {
+                    arr_Orc[count].Jump();
+                }
+                else
+                {
+                    Console.WriteLine($"{arr_Orc[count].name} 은(는) 바쁘다.");
+                }
+            }
         }
     }
 
