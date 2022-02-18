@@ -102,6 +102,39 @@ namespace _220216_REVIEW_16_UnityLesson_CSharp_Collection
                 Console.WriteLine(val);
             }
             Console.WriteLine("==================");
+
+            // ====================================
+            // Queue ( List 와 비슷하나, FIFO, First Input First Output 체계이다 )
+            // ====================================
+
+            Queue<int> _queue = new Queue<int>();
+
+            _queue.Enqueue(10);
+            _queue.Enqueue(20);
+            _queue.Enqueue(30);
+            Console.WriteLine(_queue.Peek());
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Peek());
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Peek());
+            Console.WriteLine(_queue.Dequeue());
+            
+            Console.WriteLine("==================");
+
+            // ====================================
+            // Stack ( List 와 비슷하나, LIFO, Last Input First Output 체계이다 )
+            // ====================================
+
+            Stack<int> _stack = new Stack<int>();
+
+            _stack.Push(10);
+            _stack.Push(20);
+            _stack.Push(30);
+            Console.WriteLine(_stack.Peek());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+
         }
     }
 
