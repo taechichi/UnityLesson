@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj",
         "projectName": "220205_UnityLesson_CSharp_ForLoopExample",
-        "projectPath": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj",
-        "packagesPath": "C:\\Users\\Taechichi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taechichi\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\220205_UnityLesson_CSharp_ForLoopExample.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoopExample\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Taechichi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

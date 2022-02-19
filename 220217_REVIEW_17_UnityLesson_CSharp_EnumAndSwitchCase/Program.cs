@@ -36,7 +36,7 @@ namespace _220217_REVIEW_17_UnityLesson_CSharp_EnumAndSwitchCase
     {
         // Casting 캐스팅
         // 비트 정보 그대로 들고와서 타입만 변경시킴
-        static e_PlayerState createMotion = (e_PlayerState)1;
+        static e_PlayerState createMotion = (e_PlayerState)243451; // <- Casting
         static void Main(string[] args)
         {
             Warrior warrior = new Warrior();
@@ -103,7 +103,7 @@ namespace _220217_REVIEW_17_UnityLesson_CSharp_EnumAndSwitchCase
                 switch (motion)
                 {
                     case e_PlayerState.Idle:
-                        // do nothing
+                        // do nothing cause Idle. lol
                         break;
                     case e_PlayerState.Attack:
                         warrior.Attack();
