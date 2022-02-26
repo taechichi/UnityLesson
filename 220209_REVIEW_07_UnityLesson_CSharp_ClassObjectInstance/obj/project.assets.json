@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance.csproj",
       "projectName": "220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_07_UnityLesson_CSharp_ClassObjectInstance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

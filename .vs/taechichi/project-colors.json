@@ -40,7 +40,27 @@
       "ProjectGuid": "cb5add60-a6ba-4241-8898-97e341eadea4",
       "DisplayName": "220218_REVIEW_18_UnityLesson_CSharp_Structure",
       "ColorIndex": 6
+    },
+    "6d18b39b-1916-43c9-b5bb-6c6a2e7b0422": {
+      "ProjectGuid": "6d18b39b-1916-43c9-b5bb-6c6a2e7b0422",
+      "DisplayName": "220219_5week_02_UnityLesson_CSharp_Delegate",
+      "ColorIndex": 7
+    },
+    "9ca80748-85f5-4636-816e-c454ba1fd9f6": {
+      "ProjectGuid": "9ca80748-85f5-4636-816e-c454ba1fd9f6",
+      "DisplayName": "220226_ASSIGNMENT_tmp_HorseRacing",
+      "ColorIndex": 8
+    },
+    "32f03803-c02b-46b5-a65b-0ae731f5cf4a": {
+      "ProjectGuid": "32f03803-c02b-46b5-a65b-0ae731f5cf4a",
+      "DisplayName": "220226_Teacher_HorseRacing",
+      "ColorIndex": 9
+    },
+    "a00a5378-cbb1-4c4d-9056-dd98bb93e07e": {
+      "ProjectGuid": "a00a5378-cbb1-4c4d-9056-dd98bb93e07e",
+      "DisplayName": "220226_TEACHER_DiceGame",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 11
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj": {}
+    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj": {
+    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj",
         "projectName": "220219_5week_01_UnityLesson_CSharp_ClassInheritance",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\220219_5week_01_UnityLesson_CSharp_ClassInheritance.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220219_5week_01_UnityClass_CSharp_ClassInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

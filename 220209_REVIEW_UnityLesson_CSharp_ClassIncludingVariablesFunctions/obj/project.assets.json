@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj",
       "projectName": "220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\220209_REVIEW_06_UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220209_REVIEW_UnityLesson_CSharp_ClassIncludingVariablesFunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

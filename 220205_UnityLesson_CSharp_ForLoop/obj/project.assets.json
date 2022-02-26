@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\220205_UnityLesson_CSharp_ForLoop.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\220205_UnityLesson_CSharp_ForLoop.csproj",
       "projectName": "220205_UnityLesson_CSharp_ForLoop",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\220205_UnityLesson_CSharp_ForLoop.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\220205_UnityLesson_CSharp_ForLoop.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220205_UnityLesson_CSharp_ForLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.exe
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.deps.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.runtimeconfig.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.runtimeconfig.dev.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\ref\220226_ASSIGNMENT_tmp_HorseRacing.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\bin\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.pdb
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.AssemblyInfo.cs
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\ref\220226_ASSIGNMENT_tmp_HorseRacing.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.pdb
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_ASSIGNMENT_tmp_HorseRacing\obj\Debug\net5.0\220226_ASSIGNMENT_tmp_HorseRacing.genruntimeconfig.cache

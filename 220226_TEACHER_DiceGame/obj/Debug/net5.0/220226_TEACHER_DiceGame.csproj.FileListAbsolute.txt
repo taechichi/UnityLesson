@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.exe
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.deps.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.runtimeconfig.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.runtimeconfig.dev.json
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\ref\220226_TEACHER_DiceGame.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\bin\Debug\net5.0\220226_TEACHER_DiceGame.pdb
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.AssemblyInfo.cs
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\ref\220226_TEACHER_DiceGame.dll
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.pdb
+C:\Users\User\Desktop\새 폴더\UnityLesson\220226_TEACHER_DiceGame\obj\Debug\net5.0\220226_TEACHER_DiceGame.genruntimeconfig.cache
