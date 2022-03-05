@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj",
         "projectName": "220212_01_UnityLesson_CSharp_EnumAndSwitchCase",
-        "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220212_01_UnityLesson_CSharp_EnumAndSwitchCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

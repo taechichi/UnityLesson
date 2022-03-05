@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_StaticExample\\220129_UnityLesson_CSharp_StaticExample.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_StaticExample\\220129_UnityLesson_CSharp_StaticExample.csproj",
       "projectName": "220129_UnityLesson_CSharp_StaticExample",
-      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_StaticExample\\220129_UnityLesson_CSharp_StaticExample.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_StaticExample\\220129_UnityLesson_CSharp_StaticExample.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_StaticExample\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_StaticExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

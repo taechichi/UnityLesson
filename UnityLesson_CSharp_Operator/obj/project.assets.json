@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
       "projectName": "220129_UnityLesson_CSharp_Operator",
-      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_Operator\\220129_UnityLesson_CSharp_Operator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\UnityLesson_CSharp_Operator\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\UnityLesson_CSharp_Operator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

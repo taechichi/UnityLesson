@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj",
         "projectName": "220214_REVIEW_13_UnityLesson_CSharp_WhileLoop",
-        "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220214_REVIEW_13_UnityLesson_CSharp_WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

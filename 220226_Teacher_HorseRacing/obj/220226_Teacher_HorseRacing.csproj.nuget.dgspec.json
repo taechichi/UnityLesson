@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj",
         "projectName": "220226_Teacher_HorseRacing",
-        "projectPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220226_Teacher_HorseRacing\\220226_Teacher_HorseRacing.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\새 폴더\\UnityLesson\\220226_Teacher_HorseRacing\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson\\220226_Teacher_HorseRacing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
